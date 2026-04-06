@@ -1,2 +1,2 @@
-# sales-dashboard
-sales data analysis using Excel and Tableau
+# factory-downtime-dashboard
+industrial data analysis using Excel and Tableau
